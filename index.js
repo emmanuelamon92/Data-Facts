@@ -7,7 +7,7 @@
 const chalk = require('chalk');
 const moment = require('moment');
 const leap = require('./app/index.js')
-const save = require('./app/index2.js')
+// const save = require('./app/index2.js')
 // const log = console.log;
 
 var date = moment();
